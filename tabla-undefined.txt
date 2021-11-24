@@ -1,0 +1,10 @@
+undefinedx1= NaN
+undefinedx2= NaN
+undefinedx3= NaN
+undefinedx4= NaN
+undefinedx5= NaN
+undefinedx6= NaN
+undefinedx7= NaN
+undefinedx8= NaN
+undefinedx9= NaN
+undefinedx10= NaN
